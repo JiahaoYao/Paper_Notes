@@ -16,7 +16,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
-- [The energy landscape of a simple neural network](https://github.com/DanielTakeshi/Paper_Notes/deep_learning/The_Energy_Landscape_of_A_Simple_Neural_Network.md),arXiv (2)
+- [The energy landscape of a simple neural network](https://github.com/DanielTakeshi/Paper_Notes/tree/master/deep_learning/The_Energy_Landscape_of_A_Simple_Neural_Network.md), arXiv (2)
 
 ### 2016
 
