@@ -16,14 +16,14 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
 - [Understanding Deep Learning Requires Rethinking Generalization](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Understanding_Deep_Learning_Requires_Rethinking_Generalization.md), ICLR 2017 (5)
-- [The energy landscape of a simple neural network](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/The_Energy_Landscape_of_A_Simple_Neural_Network.md), arXiv (1)
-- [Improved Training of Wasserstein GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Training_of_Wasserstein_GANs.md), arXiv (1)
-- [The Landscape of Deep Learning Algorithms](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/The_Landscape_of_Deep_Learning_Algorithms.md), arXiv (1)
+- [The energy landscape of a simple neural network](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/The_Energy_Landscape_of_A_Simple_Neural_Network.md), arXiv (1)
+- [Improved Training of Wasserstein GANs](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Improved_Training_of_Wasserstein_GANs.md), arXiv (1)
+- [The Landscape of Deep Learning Algorithms](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/The_Landscape_of_Deep_Learning_Algorithms.md), arXiv (1)
 
 
 ### 2016
 
-- [Train faster, generalize better: Stability of stochastic gradient descent](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Train_Faster_Generalize_Better_Stability_of_Stochastic_Gradient_Descent.md), arXiv (1)
+- [Train faster, generalize better: Stability of stochastic gradient descent](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Train_Faster_Generalize_Better_Stability_of_Stochastic_Gradient_Descent.md), arXiv (1)
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
 - [Improved Techniques for Training GANs](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Improved_Techniques_for_Training_GANs.md), NIPS 2016 (3)
