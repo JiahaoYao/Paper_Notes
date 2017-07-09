@@ -21,7 +21,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 - [The Landscape of Deep Learning Algorithms](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/The_Landscape_of_Deep_Learning_Algorithms.md), arXiv (1)
 - [​Learning Chaotic Dynamics using Tensor Recurrent Neural Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Learning_Chaotic_Dynamics_using_Tensor_Recurrent_Neural_Networks.md), arXiv (1)
 - [A Hitting Time Analysis of Stochastic Gradient Langevin Dynamics](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/A_Hitting_Time_Analysis_of_Stochastic_Gradient_Langevin_Dynamics.md), arXiv(2)
-- [Non-Convex Learning via Stochastic Gradient Langevin Dynamics: A Nonasymptotic Analysis](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Non-Convex_Learning_via_Stochastic_Gradient_Langevin_Dynamics/_A_Nonasymptotic_Analysis.md), arXiv(2)
+- [Non-Convex Learning via Stochastic Gradient Langevin Dynamics: A Nonasymptotic Analysis](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Non-Convex_Learning_via_Stochastic_Gradient_Langevin_Dynamics_A_Nonasymptotic_Analysis.md), arXiv(2)
 - [Generating Long-term Trajectories Using Deep Hierarchical Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Generating_Long-term_Trajectories_Using_Deep_Hierarchical_Networks.md), arXiv(1)
 - [Structured Exploration via Deep Hierarchical Coordination](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Structured_Exploration_via_Deep_Hierarchical_Coordination.md), arXiv (1)
 
