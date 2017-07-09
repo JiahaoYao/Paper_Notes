@@ -2,4 +2,4 @@
 
 > Do the experiment about the neural networks' generalization from fitted models
 
-The network is easy to fit the low frequency components while it is hard to fit the high one, which results in the regularization of neural network.
+The main result is that the empirical complexity of fitted neural network is vastly less than total number of parameters. However, this regularization is good for the generalization of the model.The network is easy to fit the low frequency components while it is hard to fit the high one, which results in the regularization of neural network. Something strange is the distance between minima: one is because it is not symmetric and I think the problem lies in the definition of the distance. Another is the MSE of GD is like Gaussian. And I still do not know what the intuition of the Gaussian mean in this stage. Figure 8 interests me a lot, meaning that in order to reach the global minima, the algorithm tend to have a trajectory of long time's not significant decay. Once it decay greatly, it usually spinning a lot.

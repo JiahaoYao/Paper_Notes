@@ -1,0 +1,5 @@
+# Learning Chaotic Dynamics using Tensor Recurrent Neural Networks
+
+Tensor-RNN: capture the highly nonlinear dynamic behavior by high-order Markov states and transition function. It also decompose the high dimension network to reduce parameter. Remarkably, there is a long-term robustness. The main structure of the algorithm is given the sequence to learn the RNN architecture of horizon T. the main features are long history of previous hidden state, model the high order interaction and low-rank tensor decomposition. I think the idea is great: Use the RNN structure to model non-markov high-order dynamics and validate two chaotic model: Lorenz attractor, real-world climate and traffic data. Finally, the result is good because it is more accurate  and faster both for long-term and short-term horizons.
+
+Then, the autor tell the difference. The origin RNN describes the Markov-1 process and their Tensor-RNN gives the description of Markov-k process, so it is called the tensor-network. The greatness of LTN is that they do not suffer from the curse of dimensionality.
