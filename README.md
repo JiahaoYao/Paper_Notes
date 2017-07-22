@@ -82,6 +82,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_With_Unsupervised_Auxiliary_Tasks.md), ICLR 2017, [Openview](https://openreview.net/forum?id=SJ6yPD5xg&noteId=SJ6yPD5xg) , [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2017:jaderberg_iclr2017.pdf) (2)
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
