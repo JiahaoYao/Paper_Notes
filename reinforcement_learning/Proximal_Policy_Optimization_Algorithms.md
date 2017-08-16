@@ -1,0 +1,3 @@
+# Proximal Policy Optimization Algorithms
+
+A policy method for the reinforcement learning is proposed in the paper. The method PPO has benefits over the TRPO. Here it uses the clipped surrogate objective, which means that the objective function is clipped to the somewhere near 1. There are two terms in the new objective function, one is for the CPI and the other is for removing the incentive for moving $r_t$ out of the [1-$\epsilon$,1+$\epsilon$].Adaptive KL penalty coefficient is something like the Trust region method, in the sense of updating the coefficients of $\beta$. To conclude, the method is similiar to the TRPO and much easier to train.

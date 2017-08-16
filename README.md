@@ -12,6 +12,10 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Full Resolution Image Compression with Recurrent Neural Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Full_Resolution_Image_Compression_with_Recurrent_Neural_Networks.md), arXiv
+- [Linear Discriminant Generative Adversarial Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Linear_Discriminant_Generative_Adversarial_Networks.md), [arXiv](https://arxiv.org/pdf/1707.07831.pdf) (1)
+- [Semi-supervised Knowledge Transfer For Deep Learning From Private Training Data](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Semi-supervised_Knowledge_Transfer_For_Deep_Learning_From_Private_Training_Data.md) ICLR 2017 [Openview](https://openreview.net/pdf?id=HkwoSDPgg) (1)
+- [Conditional Image Synthesis with Auxiliary Classifier GANs](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md), [arXiv](https://arxiv.org/pdf/1610.09585.pdf) (3)
 - FractalNet: Ultra-Deep Neural Networks Without Residuals, ICLR 2017 (1)
 - Making Neural Programming Architectures Generalize via Recursion, ICLR 2017 (1)
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Outrageously_Large_Neural_Networks_The_Sparsely-Gated_Mixture-of-Experts_Layer.md), ICLR 2017 (2)
@@ -28,6 +32,12 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2016
 
+- [Super-resolution With Deep Convolutional Sufficient Statistics](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Super-resolution_With_Deep_Convolutional_Sufficient_Statistics.md), [ICLR 2016](https://arxiv.org/pdf/1511.05666.pdf) (1)
+- [Generating Images with Perceptual Similarity Metrics based on Deep Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Generating_Images_with_Perceptual_Similarity_Metrics_based_on_Deep_Networks.md), [arXiv](https://arxiv.org/pdf/1602.02644.pdf) (1)
+- [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network.md), [arXiv](https://arxiv.org/pdf/1609.04802.pdf) (1)
+- [Deep Unsupervised Clustering With Gaussian Mixture Variational Autoencoders](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Deep_Unsupervised_Clustering_With_Gaussian_Mixture_Variational_Autoencoders.md), ICLR 2017, [OpenView](https://openreview.net/pdf?id=SJx7Jrtgl) (2)
+- [Lossy Image Compression With Compressive Autoencoders](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Lossy_Image_Compression_With_Compressive_Autoencoders.md), [Openview](https://openreview.net/pdf?id=rJiNwv9gg) (1)
+- [Variational Lossy Autoencoder](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Variational_Lossy_Autoencoder.md), ICLR 2017, [Openview](https://openreview.net/pdf?id=BysvGP5ee) (1)
 - [Train faster, generalize better: Stability of stochastic gradient descent](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Train_Faster_Generalize_Better_Stability_of_Stochastic_Gradient_Descent.md), arXiv (1)
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/NIPS_2016_Tutorial_Generative_Adversarial_Networks.md), arXiv (4)
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/DanielTakeshi/Paper_Notes/blob/master/deep_learning/Using_Fast_Weights_to_Attend_to_the_Recent_Past.md), NIPS 2016 (2)
@@ -61,6 +71,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2013
 
+- [Representation Learning: A Review and New Perspectives](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Representation_Learning_A_Review_and_New_Perspectives.md) [IEEE transactions on pattern analysis and machine intelligence](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6472238)
 - On the Difficulty of Training Recurrent Neural Networks, ICML 2013 (1)
 - On the Importance of Initialization and Momentum in Deep Learning, ICML 2013 (2)
 
@@ -82,7 +93,11 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
-- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_With_Unsupervised_Auxiliary_Tasks.md), ICLR 2017, [Openview](https://openreview.net/forum?id=SJ6yPD5xg&noteId=SJ6yPD5xg) , [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2017:jaderberg_iclr2017.pdf) (2)
+- [Bellman Gradient Iteration for Inverse Reinforcement Learning](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Bellman_Gradient_Iteration_for_Inverse_Reinforcement_Learning.md), [ArXiv](https://arxiv.org/pdf/1707.07767.pdf) (1)
+- [Parameter Space Noise for Exploration](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Parameter_Space_Noise_for_Exploration.md), [ArXiv](https://arxiv.org/pdf/1706.01905.pdf) (1)
+- [A Distributional Perspective on Reinforcement Learning](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/A_Distributional_Perspective_on_Reinforcement_Learning.md), ArXiv (1)
+- [Proximal Policy Optimization Algorithms](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Proximal_Policy_Optimization_Algorithms.md), [OpenAI](https://openai-public.s3-us-west-2.amazonaws.com/blog/2017-07/ppo/ppo-arxiv.pdf) (1)
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Reinforcement_Learning_With_Unsupervised_Auxiliary_Tasks.md), ICLR 2017, [Openview](https://openreview.net/forum?id=SJ6yPD5xg&noteId=SJ6yPD5xg) , [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2017:jaderberg_iclr2017.pdf), [code](https://github.com/miyosuda/unreal) (2)
 - UCB and InfoGain Exploration via Q-Ensembles, arXiv (1)
 - Equivalence Between Policy Gradients and Soft Q-Learning, arXiv (1)
 - Automatic Goal Generation for Reinforcement Learning Agents, arXiv (2)
@@ -113,6 +128,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2016
 
+- [Modular Multitask Reinforcement Learning with Policy Sketches](https://github.com/jiahaoyao/Paper_Notes/blob/master/reinforcement_learning/Modular_Multitask_Reinforcement_Learning_with_Policy_Sketches.md), [arXiv](https://arxiv.org/abs/1611.01796) (1)
 - [Value Iteration Networks](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Value_Iteration_Networks.md), NIPS 2016 (4)
 - [Generative Adversarial Imitation Learning](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/Generative_Adversarial_Imitation_Learning.md), NIPS 2016 (3)
 - [VIME: Variational Information Maximizing Exploration](https://github.com/DanielTakeshi/Paper_Notes/blob/master/reinforcement_learning/VIME_Variational_Information_Maximizing_Exploration.md), NIPS 2016 (3)
@@ -169,12 +185,16 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Hidden Physics Models Machine Learning of Nonlinear Partial Differential Equations](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/Hidden_Physics_Models_Machine_Learning_of_Nonlinear_Partial_Differential_Equations.md), [ArXiv](https://arxiv.org/pdf/1708.00588.pdf) (1)
+- [Neuroscience-Inspired Artificial Intelligence](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/Neuroscience-Inspired_Artificial_Intelligence.md), DeepMind, [Neuron](http://www.sciencedirect.com/science/article/pii/S0896627317305093?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb) (2)
+- [Learned Primal-dual Reconstruction](https://github.com/jiahaoyao/Paper_Notes/blob/master/miscellaneous/Learned_Primal-dual_Reconstruction.md), [arXiv](https://arxiv.org/pdf/1707.06474.pdf) (2)
 - [Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Using_dVRK_Teleoperation_to_Facilitate_Deep_Learning_of_Automation_Tasks_for_an_Industrial_Robot.md), CASE 2017 (4)
 - Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics, RSS 2017 (3)
 - A Conceptual Introduction to Hamiltonian Monte Carlo, arXiv (1)
 
 ### 2016
 
+- [A Multi-Batch L-BFGS Method for Machine Learning](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/A_Multi-Batch_L-BFGS_Method_for_Machine_Learning.md), [Nips 2016](http://papers.nips.cc/paper/6145-a-multi-batch-l-bfgs-method-for-machine-learning.pdf) (3)
 - [Minimum-Information LQG Control Part I: Memoryless Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_I_Memoryless_Controllers.md), CDC 2016 (2)
 - [Minimum-Information LQG Control Part II: Retentive Controllers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Minimum-Information_LQG_Control_Part_II_Retentive_Controllers.md), CDC 2016 (1)
 - [Gradient Descent Converges to Minimizers](https://github.com/DanielTakeshi/Paper_Notes/blob/master/miscellaneous/Gradient_Descent_Converges_to_Minimizers.md), COLT 2016 (3)

@@ -1,0 +1,3 @@
+# Generating Images with Perceptual Similarity Metrics based on Deep Networks
+
+The paper wants to address the problem that using loss functions based on distance in the image space leads to over-smoothed results. They propose a new metric for the image. This is a widely used trck, computing the distance in the feature space induced by the neural networks. Their loss can compress image and at the same time it can preserve information. In the latent space, the paper asserts that the loss of l1 and l2 is suboptimal and their loss can be divided into three part: feature loss, image loss and adversarial loss.

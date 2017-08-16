@@ -1,0 +1,3 @@
+# Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+
+The paper uses GAN for high-resolution reconstruction. The objective function matters a lot: MSE is not good enough and therefore uses the GAN's architecture. The ultimate aim is to generate a HR image with a LR image. The neural network adds some residual blocks to it. The loss has two key component, one is content loss, which is a MSE loss between the true picture, the other is adversarial loss, which aims for the natural image.
