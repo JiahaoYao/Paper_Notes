@@ -12,6 +12,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Machine Learning as an Adversarial Service/ Learning Black-Box Adversarial Examples](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Machine_Learning_as_an_Adversarial_Service/_Learning_Black-Box_Adversarial_Examples.md), [arXiv](https://arxiv.org/pdf/1708.05207.pdf) (1)
 - [Full Resolution Image Compression with Recurrent Neural Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Full_Resolution_Image_Compression_with_Recurrent_Neural_Networks.md), arXiv
 - [Linear Discriminant Generative Adversarial Networks](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Linear_Discriminant_Generative_Adversarial_Networks.md), [arXiv](https://arxiv.org/pdf/1707.07831.pdf) (1)
 - [Semi-supervised Knowledge Transfer For Deep Learning From Private Training Data](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/Semi-supervised_Knowledge_Transfer_For_Deep_Learning_From_Private_Training_Data.md) ICLR 2017 [Openview](https://openreview.net/pdf?id=HkwoSDPgg) (1)
