@@ -186,6 +186,7 @@ here go to my paper summaries if I have them, otherwise those papers are on my
 
 ### 2017
 
+- [Online Learning and Online Convex Optimization](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/Online_Learning_and_Online_Convex_Optimization.md) , By [Shai Shalev-Shwartz](https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf) [2]
 - [Hidden Physics Models Machine Learning of Nonlinear Partial Differential Equations](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/Hidden_Physics_Models_Machine_Learning_of_Nonlinear_Partial_Differential_Equations.md), [ArXiv](https://arxiv.org/pdf/1708.00588.pdf) (1)
 - [Neuroscience-Inspired Artificial Intelligence](https://github.com/jiahaoyao/Paper_Notes/blob/master/deep_learning/miscellaneous/Neuroscience-Inspired_Artificial_Intelligence.md), DeepMind, [Neuron](http://www.sciencedirect.com/science/article/pii/S0896627317305093?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb) (2)
 - [Learned Primal-dual Reconstruction](https://github.com/jiahaoyao/Paper_Notes/blob/master/miscellaneous/Learned_Primal-dual_Reconstruction.md), [arXiv](https://arxiv.org/pdf/1707.06474.pdf) (2)
